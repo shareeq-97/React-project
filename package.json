@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-ds": "^1.13.0",
     "react-grid-layout": "^0.18.3",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-sortable-hoc": "^1.11.0"
   },
   "scripts": {
